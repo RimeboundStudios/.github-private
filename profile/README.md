@@ -1,4 +1,2 @@
-[!Rimebound Studios](Banner.png)
-# RimeboundStudios
-
+![Rimebound Studios Logo](Banner.png)
 ## Welcome to Rimebound Studios!
